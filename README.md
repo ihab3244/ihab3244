@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header GIF / Visual Accent -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZzcTNpd3JzNmZrczFkOWtpeWRsdzVpaHRsMHdpZGtmdmF0eXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Header Graphic"/>
+
 
   # Hi there, I'm Ihab Cheriti <img src="https://raw.githubusercontent.com/Martin512/Martin512/main/assets/hi.gif" width="30">
 
