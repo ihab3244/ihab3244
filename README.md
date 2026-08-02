@@ -1,50 +1,31 @@
-# Hi there, I'm Ihab Cheriti 👋
+# Ihab Cheriti
 
-### Developer | Researcher 
+**Full-Stack Software Engineer | RFID & Embedded Systems**
 
-I am a passionate Software Engineer and Researcher dedicated to building scalable, user-centric applications and fostering tech communities. Currently, I focus on bridging the gap between academic research and practical software solutions.
+I build software that bridges hardware and web. Currently at Megastore Technologie in Algiers, working on RFID systems across HF, UHF and 125kHz, from reader integration through backend APIs to React interfaces.
 
----
+Most of my production work lives in private repositories (employer and client code), so this profile shows less than it could.
 
-## 🚀 About Me
-- 🌍 Based in **Algeria**
-- 🎓 **Researcher** with a focus on Computer Science and emerging technologies
-- 💡 Passionate about **Clean Code** and **Open Source**
+## Stack
 
----
+**Languages** JavaScript, TypeScript, Python, Java, C#, Go
 
-## 🛠️ Tech Stack
+**Frontend** React, Next.js, Angular, React Native, Redux, Tailwind
 
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Backend** NestJS, Node.js, .NET, Java Spring, REST APIs, GraphQL
 
-### Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+**Data** PostgreSQL, MySQL
 
-### Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Hardware** RFID (HF / UHF / 125kHz), embedded systems, PDA integration, UART
 
----
+## Background
 
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=cheritiihab&show_icons=true&theme=tokyonight" alt="Ihab's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheritiihab&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+Building production software since 2016.
 
----
+MSc Computer Science (Data Science), Tahar Moulay University of Saida.
 
-## 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/cheritiihab/)
-- 🐦 [Twitter/X](https://twitter.com/cheritiihab)
+Taught algorithms and data structures at University Center Nour Bachir.
 
+## Contact
 
----
-
-*"Building the future, one commit at a time."*
+[LinkedIn](https://www.linkedin.com/in/cheritiihab/)
